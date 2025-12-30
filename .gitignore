@@ -1,0 +1,4 @@
+echo "__pycache__/" > .gitignore
+echo ".DS_Store" >> .gitignore
+echo "*.log" >> .gitignore
+echo "*.err" >> .gitignore
